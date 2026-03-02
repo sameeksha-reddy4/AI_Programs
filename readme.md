@@ -1,24 +1,22 @@
-AI Assignment — Uninformed Search & Intelligent Agents
+## 👥 AQI Agent — Group Project
 
-Programs Included:
+This component was developed as a team project.
+
+Group Members:
+
+1. Sameeksha Reddy — GitHub: sameeksha-reddy4
+2. Eshitha Reddy — GitHub: username2 #will update
+3. Preethi Uyyuru — GitHub: username3
+4. Rithika Reddy — GitHub: username4
+
+
+## 👩‍💻 Individual Programming Assignments
+
+The following programs were implemented individually:
 
 1. Turing Test Simulation
-   - Simulates conversational intelligence
-   - Determines Human vs Machine
-
 2. CAPTCHA System
-   - Verifies human user using text challenge
+3. BFS & DFS — Water Jug Problem
 
-3. AQI Simple Reflex Agent
-   - Reads environmental parameters from file
-   - Outputs AQI category
-
-4. BFS & DFS — Water Jug Problem
-   - Implements uninformed search strategies
-   - Compares performance
-
-Technologies Used:
-- Python 3
-- Standard libraries only
-
-by: SAMEEKSHA REDDY SE24UCSE030
+BY: Sameeksha Reddy- SE24UCSE030
+GitHub: sameeksha-reddy4
